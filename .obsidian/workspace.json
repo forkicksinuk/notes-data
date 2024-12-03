@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "8812a6885a791b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "a28a8d5cee2c9e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d3f2a991e6516d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/React/状态不可变性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "状态不可变性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4c1e48e9cbc55a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "56f61a1d45d3b4e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dda45dfaa506b84e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e7e7d66f134ccc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fd04ea5046063149",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.49999618530273
+  },
+  "right": {
+    "id": "ec9f95dc295cb2ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c8335e0d0b27308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92a2f660db8080ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端/React/状态不可变性.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 状态不可变性"
+            }
+          },
+          {
+            "id": "363f71ff3ff0d488",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大二上/最优化/起作用约束与不起作用约束.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 起作用约束与不起作用约束"
+            }
+          },
+          {
+            "id": "4b689a1400306704",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "530dcd4c10051d10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大二上/最优化/起作用约束与不起作用约束.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 起作用约束与不起作用约束"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4d3f2a991e6516d0",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-12-03 18.34.50.excalidraw.md",
+    "前端/React/状态不可变性.md",
+    "Excalidraw",
+    "计网/DNS.md",
+    "计网/集线器VS交换机.md",
+    "前端/Untitled.md",
+    "前端/React",
+    "前端",
+    "Pasted image 20241202181606.png",
+    "计网/对比网络层和传输层.md",
+    "Pasted image 20241202111017.png",
+    "计网/Mac地址.md",
+    "计网/数据链路层为什么要分成一帧一帧的数据包传输？.md",
+    "概率论/均方差和方差.md",
+    "计网",
+    "概率论/如果两个随机变量互相独立.md",
+    "数电/高阻态.md",
+    "概率论",
+    "数电/与非门.md",
+    "数电/原码、真值、反码、补码.md",
+    "数电/余3码.md",
+    "物理/洛伦兹因子怎么用？.md",
+    "数电",
+    "Untitled.md",
+    "物理/相对论下，物体的能量.md",
+    "物理/固有时间.md",
+    "信号/拉氏变换.md",
+    "物理",
+    "Pasted image 20241130142851.png",
+    "高数/积分一个函数从 0 到无穷大时的收敛条件.md",
+    "高数",
+    "大二上/Untitled",
+    "信号/右边信号.md",
+    "Pasted image 20241130131631.png",
+    "信号/常数的傅里叶变换.md",
+    "Pasted image 20241130131240.png",
+    "Pasted image 20241130131235.png",
+    "Pasted image 20241130131232.png",
+    "信号/傅里叶变换.md",
+    "Pasted image 20241130130831.png",
+    "信号/单位阶跃函数 u(t) 的傅里叶变换.md",
+    "信号/矩形频谱对应的时域信号是 Sa 函数（抽样函数）.md",
+    "信号/因果稳定系统.md",
+    "13317093_e2eb2ba0-45cd-4fc9-9ea8-340f542e270f.png",
+    "13317093_f97c735b-aace-470e-d6c2-3a6c168e1c6c.png",
+    "信号"
+  ]
+}
